@@ -1,0 +1,6 @@
+{
+  "name": "PHISH FRENZY: Campus Vault",
+  "description": "Fast-paced cyberpunk cybersecurity arcade game where you defend the Campus Vault from phishing lures, scam packets, and Phishing Storms—complete with live WebSocket spectator mode, global leaderboard, and social sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
